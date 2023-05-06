@@ -1,7 +1,7 @@
 ---
 draft: false
 name: "Yvvone Majala"
-title: "AI Engineer"
+title: "Founding Engineer - AI Engineer"
 avatar: {
     src: "#",
     alt: "Yvvone Majala"
